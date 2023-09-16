@@ -1,0 +1,27 @@
+#BMW-deal{
+    background-color: black;
+    color: white;
+    border-radius: 10px;
+    font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+    font-size: 25px;
+    padding: 7px;
+    text-align: justify;
+}
+h2{
+    text-decoration: underline;
+}
+#form{
+    display: flex;
+    flex-direction: column;
+    background-color: black;
+    gap: 5px;
+    padding: 10px;
+}
+form{
+    width: 200px;
+    height: 150px;
+}
+#car3{
+    height: 200px;
+    width: 200px;
+}
